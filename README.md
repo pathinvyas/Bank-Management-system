@@ -119,7 +119,7 @@ You can also **sign up** as a completely new client from the login screen. New u
 - All views styled globally via `QApplication::setStyleSheet` in `main.cpp`.
 
 
-## Important note
+## Important note!!
 
 
 - Passwords are stored in **plain text** for simplicity 
