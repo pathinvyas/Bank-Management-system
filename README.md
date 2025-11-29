@@ -22,7 +22,7 @@ It includes:
 - **C++17**
 - **SQLite** via `QSQLITE`
 - **CMake** build system
-- 100% **code‑based UI** – no `.ui` files
+- 100% **code‑based UI** – no `.ui` files used
 
 ## Building (Qt Creator + CMake)
 
