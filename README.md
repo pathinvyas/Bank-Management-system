@@ -121,7 +121,6 @@ You can also **sign up** as a completely new client from the login screen. New u
 
 ## Important note!!
 
-
 - Passwords are stored in **plain text** for simplicity 
 - There is **no real email sending** for Interac – it just simulates balance movement between clients.
 - No external dependencies beyond Qt and SQLite.
